@@ -5,6 +5,10 @@ body,
   height: 100%;
   margin: 0;
 }
+@font-face {
+  font-family: 'Roboto';
+  src: url('./assets/Roboto-Bold.ttf');
+}
 
 .info {
   cursor: help;
