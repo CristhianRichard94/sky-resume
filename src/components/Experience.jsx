@@ -9,7 +9,7 @@ import { useControls } from 'leva';
 import { useThree } from '@react-three/fiber';
 
 const Background = ({ gl }) => {
-  const texture = useTexture('../assets/bg.jpg');
+  const texture = useTexture('/bg.jpg');
   const formatted = new THREE.WebGLCubeRenderTarget(
     texture.image.height
   ).fromEquirectangularTexture(gl, texture);

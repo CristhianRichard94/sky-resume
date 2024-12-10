@@ -7,7 +7,7 @@ body,
 }
 @font-face {
   font-family: 'Roboto';
-  src: url('./assets/Roboto-Bold.ttf');
+  src: url('/Roboto-Bold.ttf');
 }
 
 .info {
