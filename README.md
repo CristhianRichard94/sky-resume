@@ -1,1 +1,1 @@
-Look the result at [https://sky-resume.vercel.app/](here)
+Look the result at [here](https://sky-resume.vercel.app/)
